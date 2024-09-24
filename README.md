@@ -112,7 +112,7 @@ Imágen externa:
 ![](https://pbs.twimg.com/media/FnuBEI9XkAAW4n9.png)
 
 Imágen carpeta _images_:
-![](images\gatofumon.png)
+![](images/gatofumon.png)
 
 Enlace al nuevo [documento][3]
 
